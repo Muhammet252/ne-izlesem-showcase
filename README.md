@@ -1,3 +1,4 @@
+
 # 🎬 NE İZLESEM? / WHAT SHOULD I WATCH?
 
 **NE İZLESEM?** is a personalized movie discovery and recommendation platform designed to help users quickly find something worth watching.
@@ -45,6 +46,8 @@ gibi bölümlere ulaşılabilir.
 
 ### 🎥 Ana Sayfa Tanıtımı
 
+<img width="1905" height="1079" alt="Ekran görüntüsü 2026-08-31 123837" src="https://github.com/user-attachments/assets/04a809d7-a95a-4507-a6ad-f107eee4bd69" />
+
 [▶️ Ana Sayfa Videosunu İzle](./sessiz2%20(1).mp4?raw=1)
 
 ---
@@ -80,6 +83,12 @@ Kullanıcı ayrıca filmi:
 
 ### 🎥 Film Detayları Tanıtımı
 
+<img width="1901" height="1079" alt="Ekran görüntüsü 2026-08-31 123857" src="https://github.com/user-attachments/assets/e4a7e524-6bfc-4bd7-b5a2-fe0c6f782b61" />
+<img width="1901" height="1077" alt="Ekran görüntüsü 2026-08-31 123907" src="https://github.com/user-attachments/assets/7a7e7908-a4b1-4ec0-aad4-56a4a3db3516" />
+<img width="1901" height="1076" alt="Ekran görüntüsü 2026-08-31 123920" src="https://github.com/user-attachments/assets/57a6bad0-054d-4210-bfda-3434c6af6700" />
+<img width="1900" height="1079" alt="Ekran görüntüsü 2026-08-31 123928" src="https://github.com/user-attachments/assets/0bad7f6d-74aa-4af0-a38e-406f3b87cc89" />
+<img width="1902" height="1079" alt="Ekran görüntüsü 2026-08-31 123939" src="https://github.com/user-attachments/assets/5add52d9-2792-48e5-9a3f-a9299c05a116" />
+
 [▶️ Film Detayları Videosunu İzle](./sessizson.mp4?raw=1)
 
 ---
@@ -93,6 +102,8 @@ Sistem kullanıcının önceki tercihlerini dikkate alarak hızlı bir film öne
 Bu özellik uzun süre film aramak istemeyen kullanıcılar için tasarlanmıştır.
 
 ### 🎥 Hızlı Film Seçimi Tanıtımı
+
+<img width="405" height="121" alt="image" src="https://github.com/user-attachments/assets/c9ad375a-f45f-4c1b-8e27-abc5b03a85b1" />
 
 [▶️ Quick Movie Videosunu İzle](./sessiz3%20(1).mp4?raw=1)
 
@@ -115,6 +126,14 @@ gibi bilgiler değerlendirilir.
 
 ### 🎥 Karar Veremedin mi? Tanıtımı
 
+<img width="215" height="102" alt="image" src="https://github.com/user-attachments/assets/0981f5ce-9913-4601-801c-09fdde3de2a6" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124311" src="https://github.com/user-attachments/assets/541a74d9-1c4e-4c9e-a72c-3453e22dc7b2" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124320" src="https://github.com/user-attachments/assets/6a31a4e9-5cbd-40c8-ac92-50549bb931c3" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124322" src="https://github.com/user-attachments/assets/74f08770-33c2-4d12-9661-d982751f8ede" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124326" src="https://github.com/user-attachments/assets/a9c502b1-0f26-4784-b38e-98488cd8e89b" />
+<img width="1916" height="1078" alt="Ekran görüntüsü 2026-08-31 124334" src="https://github.com/user-attachments/assets/f5eaa20a-fc9f-4955-a182-98c315dc406d" />
+
+
 [▶️ Sorularla Film Bulma Videosunu İzle](./sessiz4.mp4?raw=1)
 
 ---
@@ -124,6 +143,9 @@ gibi bilgiler değerlendirilir.
 Arama özelliği sayesinde kullanıcı istediği filmi hızlıca bulabilir.
 
 Film adı yazıldıkça sonuçlar görüntülenir ve kullanıcı doğrudan film detay sayfasına geçebilir.
+
+<img width="420" height="730" alt="image" src="https://github.com/user-attachments/assets/2fd45c78-1769-445d-85db-1763fc530c5d" />
+
 
 ---
 
@@ -140,6 +162,10 @@ NE İZLESEM?, kullanıcının platformdaki tercihlerini dikkate alarak kişisel 
 - Sevilen film türleri
 
 gibi bilgiler değerlendirilir.
+
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124000" src="https://github.com/user-attachments/assets/823f510d-32af-4ab0-886a-ecce5d3b26b9" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124005" src="https://github.com/user-attachments/assets/0db90c2c-8ebe-4b03-8d31-dd3bdb086743" />
+
 
 Amaç, kullanıcı platformu kullandıkça önerilerin daha kişisel hale gelmesidir.
 
@@ -209,6 +235,8 @@ The navigation menu provides access to:
 
 ### 🎥 Home Page Preview
 
+<img width="1905" height="1079" alt="Ekran görüntüsü 2026-08-31 123837" src="https://github.com/user-attachments/assets/04a809d7-a95a-4507-a6ad-f107eee4bd69" />
+
 [▶️ Watch Home Page Video](./sessiz2%20(1).mp4?raw=1)
 
 ---
@@ -242,6 +270,12 @@ Users can also:
 
 ### 🎥 Movie Details Preview
 
+<img width="1901" height="1079" alt="Ekran görüntüsü 2026-08-31 123857" src="https://github.com/user-attachments/assets/e4a7e524-6bfc-4bd7-b5a2-fe0c6f782b61" />
+<img width="1901" height="1077" alt="Ekran görüntüsü 2026-08-31 123907" src="https://github.com/user-attachments/assets/7a7e7908-a4b1-4ec0-aad4-56a4a3db3516" />
+<img width="1901" height="1076" alt="Ekran görüntüsü 2026-08-31 123920" src="https://github.com/user-attachments/assets/57a6bad0-054d-4210-bfda-3434c6af6700" />
+<img width="1900" height="1079" alt="Ekran görüntüsü 2026-08-31 123928" src="https://github.com/user-attachments/assets/0bad7f6d-74aa-4af0-a38e-406f3b87cc89" />
+<img width="1902" height="1079" alt="Ekran görüntüsü 2026-08-31 123939" src="https://github.com/user-attachments/assets/5add52d9-2792-48e5-9a3f-a9299c05a116" />
+
 [▶️ Watch Movie Details Video](./sessizson.mp4?raw=1)
 
 ---
@@ -255,6 +289,8 @@ The system considers previous user preferences and quickly recommends a movie.
 This feature is especially useful when the user does not want to spend a long time browsing.
 
 ### 🎥 Quick Movie Preview
+
+<img width="405" height="121" alt="image" src="https://github.com/user-attachments/assets/c9ad375a-f45f-4c1b-8e27-abc5b03a85b1" />
 
 [▶️ Watch Quick Movie Video](./sessiz3%20(1).mp4?raw=1)
 
@@ -275,6 +311,13 @@ A suitable movie recommendation is generated based on:
 
 ### 🎥 Can't Decide? Preview
 
+<img width="215" height="102" alt="image" src="https://github.com/user-attachments/assets/0981f5ce-9913-4601-801c-09fdde3de2a6" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124311" src="https://github.com/user-attachments/assets/541a74d9-1c4e-4c9e-a72c-3453e22dc7b2" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124320" src="https://github.com/user-attachments/assets/6a31a4e9-5cbd-40c8-ac92-50549bb931c3" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124322" src="https://github.com/user-attachments/assets/74f08770-33c2-4d12-9661-d982751f8ede" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124326" src="https://github.com/user-attachments/assets/a9c502b1-0f26-4784-b38e-98488cd8e89b" />
+<img width="1916" height="1078" alt="Ekran görüntüsü 2026-08-31 124334" src="https://github.com/user-attachments/assets/f5eaa20a-fc9f-4955-a182-98c315dc406d" />
+
 [▶️ Watch Can't Decide Video](./sessiz4.mp4?raw=1)
 
 ---
@@ -284,6 +327,8 @@ A suitable movie recommendation is generated based on:
 The search feature allows users to quickly find a specific movie.
 
 Results appear while searching, allowing users to directly open the movie detail page.
+
+<img width="420" height="730" alt="image" src="https://github.com/user-attachments/assets/2fd45c78-1769-445d-85db-1763fc530c5d" />
 
 ---
 
@@ -300,6 +345,9 @@ The recommendation system can consider:
 - Preferred genres
 
 The goal is for recommendations to become more personalized as the user continues using the platform.
+
+ <img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124000" src="https://github.com/user-attachments/assets/823f510d-32af-4ab0-886a-ecce5d3b26b9" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-08-31 124005" src="https://github.com/user-attachments/assets/0db90c2c-8ebe-4b03-8d31-dd3bdb086743" />
 
 ---
 
