@@ -1,8 +1,8 @@
 # 🎬 NE İZLESEM? / WHAT SHOULD I WATCH?
 
-**NE İZLESEM?** is a personalized movie discovery and recommendation platform designed for people who sometimes spend more time choosing a movie than actually watching one.
+**NE İZLESEM?** is a personalized movie discovery and recommendation platform designed to help users quickly find something worth watching.
 
-**NE İZLESEM?**, ne izleyeceğine karar vermekte zorlanan kullanıcılar için geliştirilmiş kişisel film keşif ve öneri platformudur.
+**NE İZLESEM?**, kullanıcıların ne izleyeceğine daha hızlı karar vermesine yardımcı olan kişisel film keşif ve öneri platformudur.
 
 🌐 **Live Website / Canlı Site**  
 https://ne-izlesem-web-rzqj.vercel.app
@@ -13,7 +13,7 @@ https://ne-izlesem-web-rzqj.vercel.app
 
 ## 🎯 NE İZLESEM? Nedir?
 
-NE İZLESEM?, kullanıcıların film keşfetmesini kolaylaştıran ve kişisel tercihlerine göre film önerileri sunan bir platformdur.
+NE İZLESEM?, kullanıcıların film keşfetmesini kolaylaştıran ve kişisel tercihlere göre film önerileri sunan bir platformdur.
 
 Kullanıcılar:
 
@@ -23,21 +23,19 @@ Kullanıcılar:
 - İzlediği filmleri işaretleyebilir
 - Filmleri beğenebilir veya beğenmeyebilir
 - Kişiselleştirilmiş öneriler alabilir
-- Rastgele film seçebilir
-- Sorulara cevap vererek kendisine uygun film bulabilir
+- Hızlı film seçimi yapabilir
+- Sorulara cevap vererek film önerisi alabilir
 
 ---
 
 ## 🏠 Ana Sayfa
 
-Ana sayfada farklı film kategorileri ve kullanıcıya özel öneriler yer alır.
-
-Kullanıcı, ana sayfa üzerinden farklı film türlerini keşfedebilir ve kişisel önerilere ulaşabilir.
+Ana sayfada farklı film kategorileri, popüler içerikler ve kullanıcıya özel öneriler bulunur.
 
 Üst menü üzerinden:
 
 - 🔍 Film arama
-- 🎬 Film kategorileri
+- 🎬 Kategoriler
 - ❤️ İzleme listesi
 - 👀 İzlenen filmler
 - 🌍 Dil değiştirme
@@ -47,7 +45,7 @@ gibi bölümlere ulaşılabilir.
 
 ### 🎥 Ana Sayfa Tanıtımı
 
-[▶️ Ana Sayfa Videosunu İzle](./sessiz2%20(1).mp4)
+[▶️ Ana Sayfa Videosunu İzle](./sessiz2%20(1).mp4?raw=1)
 
 ---
 
@@ -62,7 +60,7 @@ Film detay sayfasında:
 - Puan
 - Yayın tarihi
 - Tür bilgileri
-- Oyuncular
+- Oyuncu kadrosu
 - Yönetmen
 - Senaristler
 - Yapım bilgileri
@@ -82,7 +80,7 @@ Kullanıcı ayrıca filmi:
 
 ### 🎥 Film Detayları Tanıtımı
 
-[▶️ Film Detayları Videosunu İzle](./sessizson.mp4)
+[▶️ Film Detayları Videosunu İzle](./sessizson.mp4?raw=1)
 
 ---
 
@@ -92,11 +90,11 @@ Ne izleyeceğine hızlıca karar vermek isteyen kullanıcılar için **Quick Mov
 
 Sistem kullanıcının önceki tercihlerini dikkate alarak hızlı bir film önerisi oluşturur.
 
-Bu özellik özellikle uzun süre film aramak istemeyen kullanıcılar için tasarlanmıştır.
+Bu özellik uzun süre film aramak istemeyen kullanıcılar için tasarlanmıştır.
 
-### 🎥 Quick Movie Tanıtımı
+### 🎥 Hızlı Film Seçimi Tanıtımı
 
-[▶️ Hızlı Film Seçimi Videosunu İzle](./sessiz3%20(1).mp4)
+[▶️ Quick Movie Videosunu İzle](./sessiz3%20(1).mp4?raw=1)
 
 ---
 
@@ -104,22 +102,20 @@ Bu özellik özellikle uzun süre film aramak istemeyen kullanıcılar için tas
 
 Kullanıcı ne izleyeceğine karar veremiyorsa **Karar Veremedin mi?** özelliğini kullanabilir.
 
-Sistem kullanıcıya çeşitli sorular sorar.
+Sistem kullanıcıya çeşitli sorular sorar ve verilen cevaplara göre uygun bir film önerisi oluşturur.
 
-Verilen cevaplar değerlendirilerek kullanıcıya uygun bir film önerilir.
-
-Öneri oluşturulurken kullanıcının:
+Öneri oluşturulurken:
 
 - Ruh hali
 - Film türü tercihleri
 - İzleme isteği
-- Verdiği cevaplar
+- Kullanıcının verdiği cevaplar
 
-dikkate alınır.
+gibi bilgiler değerlendirilir.
 
 ### 🎥 Karar Veremedin mi? Tanıtımı
 
-[▶️ Sorularla Film Bulma Videosunu İzle](./sessiz4.mp4)
+[▶️ Sorularla Film Bulma Videosunu İzle](./sessiz4.mp4?raw=1)
 
 ---
 
@@ -127,13 +123,13 @@ dikkate alınır.
 
 Arama özelliği sayesinde kullanıcı istediği filmi hızlıca bulabilir.
 
-Film adı yazıldıkça sonuçlar görüntülenir ve kullanıcı doğrudan film detay sayfasına ulaşabilir.
+Film adı yazıldıkça sonuçlar görüntülenir ve kullanıcı doğrudan film detay sayfasına geçebilir.
 
 ---
 
 ## ✨ Kişiselleştirilmiş Öneriler
 
-NE İZLESEM? kullanıcı tercihlerini dikkate alarak kişisel film önerileri oluşturur.
+NE İZLESEM?, kullanıcının platformdaki tercihlerini dikkate alarak kişisel film önerileri oluşturur.
 
 Öneriler oluşturulurken:
 
@@ -141,7 +137,7 @@ NE İZLESEM? kullanıcı tercihlerini dikkate alarak kişisel film önerileri ol
 - Beğenilmeyen filmler
 - İzlenen filmler
 - İzleme listesi
-- Kullanıcının sevdiği film türleri
+- Sevilen film türleri
 
 gibi bilgiler değerlendirilir.
 
@@ -149,7 +145,7 @@ Amaç, kullanıcı platformu kullandıkça önerilerin daha kişisel hale gelmes
 
 ---
 
-## 🌍 Türkçe ve İngilizce Dil Desteği
+## 🌍 Türkçe ve İngilizce
 
 Platform hem:
 
@@ -172,7 +168,7 @@ Desteklenen özellikler:
 - Giriş yapma
 - E-posta doğrulama
 - Şifre sıfırlama
-- Kullanıcıya özel izleme listesi
+- Kişisel izleme listesi
 - İzlenen filmler
 - Beğenilen ve beğenilmeyen filmler
 - Kişiselleştirilmiş öneriler
@@ -183,7 +179,7 @@ Desteklenen özellikler:
 
 ## 🎯 What is NE İZLESEM?
 
-NE İZLESEM? is a movie discovery and recommendation platform designed to help users find something to watch without spending too much time deciding.
+NE İZLESEM? is a movie discovery and recommendation platform designed to help users decide what to watch without spending too much time browsing.
 
 Users can:
 
@@ -200,9 +196,7 @@ Users can:
 
 ## 🏠 Home Page
 
-The home page contains different movie categories and personalized recommendations.
-
-Users can discover movies and quickly access different sections of the platform.
+The home page includes movie categories, popular content and personalized recommendations.
 
 The navigation menu provides access to:
 
@@ -215,7 +209,7 @@ The navigation menu provides access to:
 
 ### 🎥 Home Page Preview
 
-[▶️ Watch Home Page Video](./sessiz2%20(1).mp4)
+[▶️ Watch Home Page Video](./sessiz2%20(1).mp4?raw=1)
 
 ---
 
@@ -248,7 +242,7 @@ Users can also:
 
 ### 🎥 Movie Details Preview
 
-[▶️ Watch Movie Details Video](./sessizson.mp4)
+[▶️ Watch Movie Details Video](./sessizson.mp4?raw=1)
 
 ---
 
@@ -256,13 +250,13 @@ Users can also:
 
 The **Quick Movie** feature is designed for users who want an immediate movie suggestion.
 
-The system considers previous user preferences and selects a movie quickly.
+The system considers previous user preferences and quickly recommends a movie.
 
-This feature is useful when the user does not want to spend a long time browsing.
+This feature is especially useful when the user does not want to spend a long time browsing.
 
 ### 🎥 Quick Movie Preview
 
-[▶️ Watch Quick Movie Video](./sessiz3%20(1).mp4)
+[▶️ Watch Quick Movie Video](./sessiz3%20(1).mp4?raw=1)
 
 ---
 
@@ -272,7 +266,7 @@ If the user cannot decide what to watch, the **Can't Decide?** feature can help.
 
 The platform asks several questions and evaluates the user's answers.
 
-A suitable movie recommendation is then generated based on factors such as:
+A suitable movie recommendation is generated based on:
 
 - Current mood
 - Genre preferences
@@ -281,7 +275,7 @@ A suitable movie recommendation is then generated based on factors such as:
 
 ### 🎥 Can't Decide? Preview
 
-[▶️ Watch Can't Decide Video](./sessiz4.mp4)
+[▶️ Watch Can't Decide Video](./sessiz4.mp4?raw=1)
 
 ---
 
@@ -341,14 +335,14 @@ This repository is the public showcase page for **NE İZLESEM?**
 
 The application's source code is not publicly available.
 
-This repository is only used to demonstrate the platform, its interface and its main features.
+This repository is used only to demonstrate the platform, its interface and its main features.
 
 ---
 
 # 🍿 NE İZLESEM?
 
-Stop spending time deciding what to watch.
+**Karar vermekle uğraşma. NE İZLESEM? senin için seçsin.**
 
-**Let NE İZLESEM? choose for you.**
+**Stop spending time deciding what to watch. Let NE İZLESEM? choose for you.**
 
 🌐 https://ne-izlesem-web-rzqj.vercel.app
